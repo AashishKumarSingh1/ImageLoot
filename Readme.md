@@ -4,7 +4,7 @@
 Welcome to ImageLoot - your ultimate visual web scraper designed to crawl, capture, and collect stunning images from any URL you throw at it. Transform URLs into a treasure trove of pixels, unlocking the beauty hidden within websites, one image at a time.
 
 Whether you're looking to build an image dataset, gather visuals for a project, or simply explore the web's photographic gems, ImageLoot is your go-to tool for seamless image extraction.
-
+[Watch the demo video](./imageLoot.mp4)
 <video src="./imageLoot.mp4" autoplay muted playsinline></video>
 
 ## Features 
