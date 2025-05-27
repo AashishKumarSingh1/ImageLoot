@@ -1,0 +1,10 @@
+{
+    "base_url": "https://www.wikipedia.org/",
+    "unique_name": "wikipedia",
+    "images": [
+        {
+            "url": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png",
+            "alt": ""
+        }
+    ]
+}

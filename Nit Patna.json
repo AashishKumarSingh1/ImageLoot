@@ -1,0 +1,346 @@
+{
+    "base_url": "https://www.nitp.ac.in/",
+    "unique_name": "nit patna",
+    "images": [
+        {
+            "url": "https://www.nitp.ac.in/facebook.png",
+            "alt": "facebook"
+        },
+        {
+            "url": "https://www.nitp.ac.in/twitter.svg",
+            "alt": "twitter"
+        },
+        {
+            "url": "https://www.nitp.ac.in/linkedin.svg",
+            "alt": "linkedin"
+        },
+        {
+            "url": "https://www.nitp.ac.in/location.png",
+            "alt": "location"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.00e5159e.png&w=128&q=75",
+            "alt": "NIT PATNA"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.00e5159e.png&w=256&q=75",
+            "alt": "NIT PATNA"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/home.60c208f6.svg",
+            "alt": "Home"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/about.45de6e46.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/mission.69a37227.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/value.870a707c.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/campus.71895c00.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/structure.ac45e307.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/resource.5a3c69ff.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/calendar.138dbe83.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/document.eae5c031.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/digital.967ba9ac.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/president.fad788af.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/person.1126b829.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/director.c031fee4.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/sperson.ca86fe2f.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/notice.fb438e00.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/department.d2e7ce39.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/physics.87e43ec1.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/archi.526bf3f9.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/chem.9eaa7425.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/civil.19ed34f2.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/cse.79575633.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/ee.ee28962c.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/ECE.2738a125.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/hss.00f41e9d.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/math.0c1fe14a.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/mech.40700c28.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/admin.7e9b0897.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/programs.64aa6cae.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/rules.5f040a87.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/fee.ae49d0bd.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/admission.e5bd942d.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/excellence.aff2ab37.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/bis.7c9163ce.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/portal.660d53e5.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/forms.0a7b6525.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/international.3427a9ad.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/hostel.0cd53201.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/schlorship.6ba603d2.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/clubs.b2dcd4e3.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/women.01d145d8.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/scst.fccee6d4.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/sac.2a9b04bc.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/fest.b6c45f15.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/nssnew.aafaa4c7.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/Ecell.5122f026.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/bharat.29c5168d.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/chankaya.d00e15cc.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/ComputerCentre.23e1be6f.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/Hospital.63018a7f.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/sports.817f1cda.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/Library.ce390abd.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/bank.34a06c9d.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/EMU.325692cf.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/ESU.690422b5.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/_next/static/media/Labs.8550902f.svg",
+            "alt": "item-icon"
+        },
+        {
+            "url": "https://www.nitp.ac.in/homepage/MainEntrance.jpg",
+            "alt": ""
+        },
+        {
+            "url": "https://www.nitp.ac.in/homepage/MainBuilding.jpg",
+            "alt": ""
+        },
+        {
+            "url": "https://www.nitp.ac.in/home2.png",
+            "alt": ""
+        },
+        {
+            "url": "https://i.postimg.cc/J42hsCPZ/2-scientist.png",
+            "alt": ""
+        },
+        {
+            "url": "https://i.postimg.cc/vZgyyTkp/image.png",
+            "alt": ""
+        },
+        {
+            "url": "https://i.postimg.cc/0jDVqSGQ/Image-1-00001.jpg",
+            "alt": ""
+        },
+        {
+            "url": "https://i.postimg.cc/02dwnf6F/nit-patna-002.jpg",
+            "alt": ""
+        },
+        {
+            "url": "https://i.postimg.cc/h4mxzgKS/nit-patna-004.jpg",
+            "alt": ""
+        },
+        {
+            "url": "https://i.postimg.cc/fyY06783/nit-patna-005.jpg",
+            "alt": ""
+        },
+        {
+            "url": "https://i.postimg.cc/6pWBW8Dg/PKJ-Desk-Photo-1.jpg",
+            "alt": "Prof. P.K. Jain"
+        },
+        {
+            "url": "https://www.nitp.ac.in/Company Logo/company_logo_1.png",
+            "alt": "Company 1"
+        },
+        {
+            "url": "https://www.nitp.ac.in/Company Logo/company_logo_2.png",
+            "alt": "Company 2"
+        },
+        {
+            "url": "https://www.nitp.ac.in/Company Logo/company_logo_3.png",
+            "alt": "Company 3"
+        },
+        {
+            "url": "https://www.nitp.ac.in/Company Logo/company_logo_4.png",
+            "alt": "Company 4"
+        },
+        {
+            "url": "https://www.nitp.ac.in/Company Logo/company_logo_5.png",
+            "alt": "Company 5"
+        },
+        {
+            "url": "https://www.nitp.ac.in/Company Logo/company_logo_6.png",
+            "alt": "Company 6"
+        },
+        {
+            "url": "https://www.nitp.ac.in/Company Logo/company_logo_7.png",
+            "alt": "Company 7"
+        },
+        {
+            "url": "https://i.postimg.cc/bwy2BtkJ/nit-patna-001.jpg",
+            "alt": "Gallery Image 1"
+        },
+        {
+            "url": "https://i.postimg.cc/zX1hTMfT/nit-patna-003.jpg",
+            "alt": "Gallery Image 3"
+        },
+        {
+            "url": "https://i.postimg.cc/HLP55kJL/nit-patna-006.jpg",
+            "alt": "Gallery Image 6"
+        },
+        {
+            "url": "https://i.postimg.cc/TwLbcvmJ/nit-patna-007.jpg",
+            "alt": "Gallery Image 7"
+        },
+        {
+            "url": "https://i.postimg.cc/pTwFGcJb/nit-patna-008.jpg",
+            "alt": "Gallery Image 8"
+        },
+        {
+            "url": "https://i.postimg.cc/LssLn187/nit-patna-009.jpg",
+            "alt": "Gallery Image 9"
+        },
+        {
+            "url": "https://i.postimg.cc/k5CYZwwS/logo.png",
+            "alt": "NIT Patna Logo"
+        }
+    ]
+}
