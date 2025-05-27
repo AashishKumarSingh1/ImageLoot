@@ -1,0 +1,10 @@
+{
+    "base_url": "https://www.google.com/",
+    "unique_name": "Google",
+    "images": [
+        {
+            "url": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_white_background_color_272x92dp.png",
+            "alt": "Google"
+        }
+    ]
+}
